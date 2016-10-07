@@ -9,20 +9,6 @@ h2, h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: lighter;
 }
-body {
-  margin: 2em;
-  background-color: #bdbdbd  !important;
-}
-
-input.ng-invalid{
-  border-left: 5px solid #a94442 !important;
-  border-right: 5px solid #a94442 !important;
-}
-
-.ng-valid[required]{
-  border-left: 5px solid #42A948;
-  border-right: 5px solid #42A948;
-}
 .card .card-image img{
   height: 370px!important;
   margin-top: 20px;
